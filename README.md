@@ -1,2 +1,3 @@
 # findoprs
-CLI to generate maths exercices
+
+CLI to generate maths exercices.
